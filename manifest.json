@@ -1,7 +1,7 @@
 {
  "name": "ADM - HUMAITÁ",
+ "start_url": "index.html",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.html",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
