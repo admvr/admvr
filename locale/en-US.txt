@@ -17,6 +17,7 @@ LinkBehaviour_E586CADC_DD25_173B_41A9_C6D6946D82DD.source = #media=Puente&focus-
 LinkBehaviour_E75825F4_DD3B_1D0A_41DA_5FD3E097C72C.source = #media=Puente&focus-overlay-name=11
 LinkBehaviour_E4B75BD6_DD3B_1537_41E9_72DCD5DE34C1.source = #media=Puente&focus-overlay-name=12
 LinkBehaviour_E78EA74A_DD25_3D1F_41E1_B30456A0F117.source = #media=Puente&focus-overlay-name=18
+LinkBehaviour_997594BE_DF6D_3377_41E5_A6D849C45468.source = #media=Puente&focus-overlay-name=9-puente
 LinkBehaviour_E7295396_DD2F_3537_41CF_E10EADCAF2AB.source = #media=Puente&focus-overlay-name=GoToSalaDeMáquinas
 LinkBehaviour_E7DD97B3_DDFD_3D0D_41C6_E8F9AE6FB39E.source = #media=Sala%20de%20Motores&focus-overlay-name=26
 LinkBehaviour_E00351C2_DDFD_150E_41E6_AEB2B58DEE79.source = #media=Sala%20de%20Motores&focus-overlay-name=27
@@ -29,11 +30,10 @@ LinkBehaviour_E10F6EC1_DD2D_0F0D_41EA_15D108BCE1E5.source = #media=Sala%20de%20M
 LinkBehaviour_E595F66B_DD2D_1F1D_41A5_2F68AC4A1502.source = #media=Sala%20de%20Máquinas&focus-overlay-name=24
 LinkBehaviour_E7C2223C_DD2D_377A_41E5_F492025EF907.source = #media=Sala%20de%20Máquinas&focus-overlay-name=25
 LinkBehaviour_E263175A_DD2F_1D3F_41DA_AB2E59949B1B.source = #media=Sala%20de%20Máquinas&focus-overlay-name=GoToSalaDeMotores
-LinkBehaviour_9B265B1E_DF2D_1537_41DF_415820DA8B78.source = /index.html#media=Puente&focus-overlay-name=9
 LinkBehaviour_CD50FC6B_C1B3_04DD_41D4_705B8F3F1E0B.source = http://www.loremipsum.com
 LinkBehaviour_CD50DC6B_C1B3_04DD_41D7_929FEA309BCF.source = http://www.loremipsum.com
-WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 
 ## E-Learning
 
@@ -248,27 +248,27 @@ imlevel_C7A2A70C_DB2F_3D1A_41E6_CFD4CEAC83D9.url = media/popup_E3A9CD08_C25F_33A
 
 ### Title
 video_C7682317_DB25_3534_41E8_906E923EDBA7.label = 01 bienvenidos
+video_997ABC24_DF65_730B_41EA_E6BB6DF65E5E.label = 02 Puente
 video_DA2FC395_C2D5_36A6_41DB_5B824C662863.label = 03 Sala de Máquinas
 video_DB9E5890_C2D7_32BD_41E1_DE17737142B8.label = 04 Sala de Timones
 photo_E403D32A_C2D3_57E2_41E6_F91EE8B6F6D2.label = IMG_0237
 panorama_C5852BCD_DB25_3515_41DE_08CFD4D6AAC4.label = Aerial Perspective
 panorama_CA65A555_C1B1_04F5_41C9_62BBE88193E8.label = Bridge
-video_D40A5ABE_C2D3_56E2_41DE_8B0EFACE72BC.label = Bridge
 panorama_CA69FA87_C1B1_0C55_41D0_41767F332A45.label = Engine Room
 panorama_DC255049_CCC1_2875_41A4_295485ED7877.label = Machine Room
 video_D37485A4_CA49_591E_41D0_7EFA371C78CB.label = loading
 
 ### Video
-videolevel_989DAF44_DF3D_0D0B_41BA_8FC5B24387EE.url = media/video_C7682317_DB25_3534_41E8_906E923EDBA7_en-US.mp4
-videolevel_989DAF44_DF3D_0D0B_41BA_8FC5B24387EE.posterURL = media/video_C7682317_DB25_3534_41E8_906E923EDBA7_poster_en-US.jpg
-videolevel_98716CC9_DF3D_131D_41E8_4CDE8544FB56.url = media/video_D37485A4_CA49_591E_41D0_7EFA371C78CB_es-PY.mp4
-videolevel_98716CC9_DF3D_131D_41E8_4CDE8544FB56.posterURL = media/video_D37485A4_CA49_591E_41D0_7EFA371C78CB_poster_es-PY.jpg
-videolevel_9876FBC5_DF3D_1515_41C0_48C8BCFFBE32.url = media/video_D40A5ABE_C2D3_56E2_41DE_8B0EFACE72BC_en-US.mp4
-videolevel_9876FBC5_DF3D_1515_41C0_48C8BCFFBE32.posterURL = media/video_D40A5ABE_C2D3_56E2_41DE_8B0EFACE72BC_poster_en-US.jpg
-videolevel_98745C15_DF3D_1335_41E6_2A0B70E49BB2.url = media/video_DA2FC395_C2D5_36A6_41DB_5B824C662863_en-US.mp4
-videolevel_98745C15_DF3D_1335_41E6_2A0B70E49BB2.posterURL = media/video_DA2FC395_C2D5_36A6_41DB_5B824C662863_poster_en-US.jpg
-videolevel_98727C65_DF3D_1315_41E2_67562A3A398D.url = media/video_DB9E5890_C2D7_32BD_41E1_DE17737142B8_en-US.mp4
-videolevel_98727C65_DF3D_1315_41E2_67562A3A398D.posterURL = media/video_DB9E5890_C2D7_32BD_41E1_DE17737142B8_poster_en-US.jpg
+videolevel_9AB55F42_DF6B_0D0E_41E5_A663037A0743.url = media/video_997ABC24_DF65_730B_41EA_E6BB6DF65E5E_es-PY.mp4
+videolevel_9AB55F42_DF6B_0D0E_41E5_A663037A0743.posterURL = media/video_997ABC24_DF65_730B_41EA_E6BB6DF65E5E_poster_es-PY.jpg
+videolevel_9AA96EEE_DF6B_0F17_41E0_D94E4355ECF8.url = media/video_C7682317_DB25_3534_41E8_906E923EDBA7_en-US.mp4
+videolevel_9AA96EEE_DF6B_0F17_41E0_D94E4355ECF8.posterURL = media/video_C7682317_DB25_3534_41E8_906E923EDBA7_poster_en-US.jpg
+videolevel_9A5DEC86_DF6B_1316_41E2_74594896024E.url = media/video_D37485A4_CA49_591E_41D0_7EFA371C78CB_es-PY.mp4
+videolevel_9A5DEC86_DF6B_1316_41E2_74594896024E.posterURL = media/video_D37485A4_CA49_591E_41D0_7EFA371C78CB_poster_es-PY.jpg
+videolevel_9A545BCE_DF6B_1517_41D7_64AC34D4F88A.url = media/video_DA2FC395_C2D5_36A6_41DB_5B824C662863_en-US.mp4
+videolevel_9A545BCE_DF6B_1517_41D7_64AC34D4F88A.posterURL = media/video_DA2FC395_C2D5_36A6_41DB_5B824C662863_poster_en-US.jpg
+videolevel_9A518C22_DF6B_130F_41CB_8DCB50DF8212.url = media/video_DB9E5890_C2D7_32BD_41E1_DE17737142B8_en-US.mp4
+videolevel_9A518C22_DF6B_130F_41CB_8DCB50DF8212.posterURL = media/video_DB9E5890_C2D7_32BD_41E1_DE17737142B8_poster_en-US.jpg
 
 ## Skin
 
