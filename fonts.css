@@ -161,8 +161,8 @@
    font-style: italic;
 }
 @font-face {
-   font-family: "Blacksword";
-   src: url("fonts/Blacksword.woff") format("woff"), url("fonts/Blacksword.eot") format("embedded-opentype"), url("fonts/Blacksword.otf") format("opentype");
+   font-family: "Bebas";
+   src: url("fonts/Bebas Regular.woff") format("woff"), url("fonts/Bebas Regular.eot") format("embedded-opentype"), url("fonts/Bebas Regular.ttf") format("truetype"), url("fonts/Bebas Regular.svg") format("svg");
    font-weight: normal;
    font-style: normal;
 }

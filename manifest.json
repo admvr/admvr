@@ -1,8 +1,8 @@
 {
+ "name": "ADM - NAVIERA CHACO",
  "start_url": "index.html",
  "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
- "name": "ADM - NAVIERA CHACO",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "theme_color": "#FFFFFF"
 }
